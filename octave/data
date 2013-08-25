@@ -1,0 +1,13 @@
+# Created by Octave 3.4.0, Mon May 13 12:06:14 2013 PDT <user@new-host.home>
+# name: a
+# type: matrix
+# rows: 6
+# columns: 6
+ 1 2 3 4 5 6
+ 1 0 0 0 0 1
+ 2 0 0 0 0 2
+ 3 0 0 0 0 3
+ 4 0 0 0 0 4
+ 1 2 3 4 5 6
+
+
